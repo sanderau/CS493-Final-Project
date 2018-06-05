@@ -8,12 +8,11 @@
 ## Containerization
 	* Docker 
 ## Security
-	* Rate limit
+	* Rate limiting
 	* Javascript Web Tokens
 ## Databases
 	* MongoDB for user data
 	* MySQL for storing data
-
 
 ## Developers:
 
